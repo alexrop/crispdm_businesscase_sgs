@@ -51,7 +51,7 @@ The repository is divided in three folders.
 
 # Results <a name="results"></a>
 
-All the results are included in the notebook. Nevertheless, the main findings of the code can be found at the post available here.
+All the results are included in the notebook. Nevertheless, the main findings of the code can be found at the post available [here](https://medium.com/@alexanderulloa7/real-business-insights-by-applying-crisp-dm-and-text-mining-1254048c78b4).
 
 
 # Licensing, Authors, Acknowledgements <a name="licensing"></a>
