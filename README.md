@@ -17,18 +17,17 @@ The CRISP-DM methodology is applied in order to extract relevant information fro
 # Installation <a name="installation"></a>
 
 This project uses Python 3.7.1, along with Jupyter Notebook. The following libraries are necessary for running the notebook:
-- re 2.2.1
-- pickle 4.0
-- datetime 4.3
-- spacy 3.0.3
-- python -m spacy download es_core_news_lg
-- numpy 1.20.2
-- pandas 1.2.4
-- gensim 4.0.1
-- pyLDAvis 3.3.1
-- matplotlib 3.0.2
-- seaborn 0.10.1
-- wordcloud 1.8.1
+- re==2.2.1
+- pickle==4.0
+- datetime==4.3
+- spacy==3.0.3
+- numpy==1.20.2
+- pandas==1.2.4
+- gensim==4.0.1
+- pyLDAvis==3.3.1
+- matplotlib==3.0.2
+- seaborn==0.10.1
+- wordcloud==1.8.1
 
 # Project Motivation <a name="motivation"></a>
 
